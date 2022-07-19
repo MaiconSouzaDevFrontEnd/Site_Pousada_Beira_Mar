@@ -30,13 +30,17 @@
     letter-spacing: 1.5px;
     
 }
-.coqueiro {
-    height: 100%;
+/* .coqueiro {
+    display: inline-block;
+    fill: #FAFAFA;
+    height: 18px;
+    width: 15px;
     background-image: url('../img/coqueiro/coqueiroBlack.png');
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
-}
+    z-index: 2;
+} */
 .nav-menu {
     width: 30%;
    justify-content: space-between;
